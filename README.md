@@ -1,1 +1,2 @@
-# git_learning
+# learn_github
+GitHub実践ハンズオン
